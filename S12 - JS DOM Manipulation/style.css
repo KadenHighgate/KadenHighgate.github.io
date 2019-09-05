@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2{
+    color: green;
+}
+li:hover{
+    cursor: pointer; 
+}
+
+.bluecolor {
+    color: blue;
+}
+
+li.done{
+    color: green;
+    text-decoration: line-through;
+}
+
+#first{
+    color: red;
+}
